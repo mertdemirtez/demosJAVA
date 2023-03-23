@@ -2,9 +2,9 @@
  
  ℂ𝕠𝕞𝕡𝕦𝕥𝕖𝕣 𝔼𝕟𝕘𝕚𝕟𝕖𝕖𝕣𝕚𝕟𝕘 𝟚𝕟𝕕 𝕪𝕖𝕒𝕣 𝕁𝔸𝕍𝔸 𝕤𝕥𝕦𝕕𝕚𝕖𝕤 (𝔸𝕡𝕒𝕔𝕙𝕖 ℕ𝕖𝕥𝕓𝕖𝕒𝕟𝕤 𝕀𝔻𝔼)
  
- - This GitHub repository contains some of the projects that I worked on when I was a sophomore computer engineering student.
+ ⭐ This GitHub repository contains some of the projects that I worked on when I was a sophomore computer engineering student. ⭐
  
- - You can also contribute to and support this project. Have a nice day, everyone!
+ ⭐ You can also contribute to and support this project. Have a nice day, everyone! ⭐
  
  
  
@@ -32,7 +32,15 @@
 - Condition Blocks
 - Switch&Case&Break Structure
 - Constructors Structure
- 
+
+-
+# 🅲🅾🅽🆃🅰🅲🆃 🅵🅾🆁 🅼🅴
+-My personal website is: www.mertdemir.rf.gd
+- 
+-My LinkedIn profile is: https://www.linkedin.com/in/mertdemirtez/
+-
+-My Instagram handle is: www.instagram.com/mertdemirofficial/
+-
 
 
 
